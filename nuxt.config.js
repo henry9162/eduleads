@@ -21,12 +21,6 @@ export default {
   ** Customize the progress-bar color
   */
   loading: { color: '#fff' },
-  generate: {
-    routes: [
-      '/inspire',
-      '/'
-    ]
-  },
   /*
   ** Global CSS
   */
